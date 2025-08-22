@@ -8,7 +8,7 @@ Currently, I am actively involved as a Staff at the Cybersecurity Red Team Acade
  
 Currently, I am actively involved as a staff member at the Cybersecurity Red Team Academy and participating in the Asah 2025 REBE AI program by Dicoding x Accenture to further develop my technological skills.<br>
  
-If you'd like to connect further, please follow my LinkedIn account [Linkedin](https://www.linkedin.com/in/ahmad-fayaadh-baisa/).
+If you'd like to connect further, please follow my [LinkedIn](https://www.linkedin.com/in/ahmad-fayaadh-baisa/) account.
  
 ### Github Statistic
 <p align="left">
